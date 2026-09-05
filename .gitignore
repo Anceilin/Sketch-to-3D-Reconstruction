@@ -1,0 +1,20 @@
+# Large datasets - do not upload to GitHub
+ShapeNet/
+voxels/
+*.zip
+*.binvox
+
+# PyTorch model checkpoints
+*.pth
+*.pt
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
